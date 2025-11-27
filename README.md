@@ -89,52 +89,56 @@ We will make heavy usage of the python programming language. If you need to refr
 - [Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), T. Robitaille et al.
 - ["Learning Scientific Programming with Python"](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237), Hill, Cambridge University Press, 2020. Supporting code: [scipython.com](https://scipython.com/).
 - ["Effective Computation in Physics"](https://www.oreilly.com/library/view/effective-computation-in/9781491901564/), A. Scopatz, K. D. Huff, O'Reilly Media, 2015.
-
+- ["Python for non pythonians"](https://www.amazon.com/Python-non-Pythonians-Over-Programming-Languages/dp/888548686X), Rubera, Grossetti, 2019.
 
 ## 2025 Class schedule
 
-The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly timeslots are Monday 8.30am-10.30am (sorry) and Thursday 10.30am-12.30pm. Note a few extra lectures on different days/times as well as a few weeks where we're going to skip classes). We're in room U2-05 on the main Bicocca campus.
+The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly timeslots are Monday 8.30am-10.30am (sorry) and Thursday 10.30am-12.30pm. Note a few extra lectures on different days/times as well as a few weeks where we're going to skip classes).
 
 Our schedule is as follows. [Here is a public calendar](https://calendar.google.com/calendar/embed?src=7b3eb78f345682c12c065855a0e49c6b21d2f1db72b244bf752dd534a47c6066%40group.calendar.google.com&ctz=Europe%2FRome) with the dates below, which you can import into your calendar software.
 
-1. **Mar 3, 8.30**
+1. **Mar 3, 8.30.** Room U2-05.
 - Mar 6, holiday
-2. **Mar 10, 8.30**
-3. **Mar 13, 10.30**
-4. **Mar 17, 8.30**
-5. **Mar 20, 10.30**
-- Mar 24, Davide is away for research
-- Mar 27, Davide is away for research
-6. **Mar 31, 8.30**
-7. **Apr 3, 10.30**
-8. **Apr 7, 8.30**
-9. **Apr 8, 10.30** (extra lecture)
-10. **Apr 10, 10.30**
-11. **Apr 14, 8.30**
-- Apr 17, holiday
-- Apr 21, holiday
-12. **Apr 24, 10.30**
-13. **Apr 28, 8.30**
-- May 1, holiday
-14. **May 5, 8.30**
-- May 8, 10.30. Davide is away for research
-15. **May 12, 8.30**
-16. **May 15, 10.30**
-17. **May 19, 8.30**
-18. **May 22, 10.30**
-19. **May 26, 8.30**
-20. **May 27, 8.30** (extra lecture)
-21. **May 29, 10.30**
+2. **Mar 10, 8.30.** Room U2-05.
+3. **Mar 13, 10.30.** Room U2-05.
+4. **Mar 17, 8.30.** Room U2-06.
+5. **Mar 20, 10.30.** Room U2-05.
+- Mar 24, Davide is away for research.
+- Mar 27, Davide is away for research.
+6. **Mar 31, 8.30.** Room U2-06.
+7. **Apr 3, 10.30.** Room U2-01.
+8. **Apr 7, 8.30.** Room U1-10.
+9. **Apr 8, 10.30.** Room U2-05 (extra lecture).
+10. **Apr 10, 10.30.**  Room U2-07.
+11. **Apr 14, 8.30.** Room U2-06.
+- Apr 17, holiday.
+- Apr 21, holiday.
+12. **Apr 24, 10.30.** Room U1-04.
+13. **Apr 28, 8.30.** Room U1-10.
+- May 1, holiday.
+14. **May 5, 8.30.** Room U1-10.
+- May 8, Davide is away for research.
+15. **May 12, 8.30.** Room U1-10.
+16. **May 15, 10.30.** Room U2-05.
+17. **May 19, 8.30.** Room U1-10.
+18. **May 22, 10.30.** Room U2-05.
+19. **May 26, 8.30.** Room U1-10.
+20. **May 27, 8.30.** Room U2-05 (extra lecture).
+- May 29, Davide is away for research.
+21. **May 30, 8.30.** Room U2-05 (extra lecture).
 - Jun 2, holiday
 - Jun 5, 10.30. Davide is away for research
-22. Jun 9, 8.30 (backup slot)
-23. Jun 10, 10.30 (backup slot)
-24. Jun 12, 10.30 (backup slot)
+22. Jun 9, 8.30. Room U1-10 (backup slot).
+23. Jun 10, 10.30. Room U2-05 (backup slot) 
+24. Jun 12, 10.30. Room U2-05 (backup slot)
 
+## Exams
+
+Exam guidelines are available [here](exams.md). Please read that carefully.
 
 ## Past editions
 
-- Current: [dgerosa.github.io/astrostatistics_bicocca](https://dgerosa.github.io/astrostatistics_bicocca)
+- Current: [dgerosa.github.io/astrostatistics](https://dgerosa.github.io/astrostatistics)
 - 2024: [github.com/dgerosa/astrostatistics_bicocca_2024](https://github.com/dgerosa/astrostatistics_bicocca_2024)
 - 2023: [github.com/dgerosa/astrostatistics_bicocca_2023](https://github.com/dgerosa/astrostatistics_bicocca_2023)
 - 2022: [github.com/dgerosa/astrostatistics_bicocca_2022](https://github.com/dgerosa/astrostatistics_bicocca_2022)
